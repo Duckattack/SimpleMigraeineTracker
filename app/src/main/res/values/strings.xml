@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MigraineTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_migraine_entry">MigraineEntryActivity</string>
+</resources>
